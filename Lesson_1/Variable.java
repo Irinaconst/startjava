@@ -3,7 +3,7 @@ public class Variable {
 	public static void main(String[] args) {
 		//Ноутбук ASUS F507UF;
 		byte windows = 10;
-		short vuosi = 2018; //vuosi - год;
+		short year = 2018;
 		boolean gaming = false;
 		float diagonal = 15;
 		char cores = '2';
@@ -13,7 +13,7 @@ public class Variable {
 		double thicknessMm = 21.9;
 		
 		System.out.println("Windows" + windows); 
-		System.out.println("Year of manufacture:" + vuosi);
+		System.out.println("Year of manufacture:" + year);
 		System.out.println("Gaming notebook:" + gaming);
 		System.out.println("diagonal:" + diagonal);
 		System.out.println("number of processor cores:" + cores);
