@@ -19,7 +19,7 @@ public class Person {
 		System.out.println("Сидеть!");
 	}
 
-	void toRun() {
+	void run() {
 		System.out.println("Ты пробежал 10 метров");
 	}
 
